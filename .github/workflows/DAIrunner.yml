@@ -34,4 +34,4 @@ jobs:
             clientID: "client:dai:api:integration:4e5783c7-f87c-4d84-bdf3-1cebe5cc3197"
             # The client secret to use to authenticate with the Eggplant DAI server  [env var: DAI_CLIENT_SECRET; required]
             clientSecret: "z8hIUKNiOjtwTZzWhOKrbFlimQVWkfyW" 
-            parameters: "unik1=こんにちは14;;unik2=goreng berlado@123"
+            parameters: "unik1=こんにちは14;;unik2=goreng berlado@12"
