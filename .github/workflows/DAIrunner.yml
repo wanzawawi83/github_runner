@@ -23,8 +23,8 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       - name: Eggplant Runner
-          uses: keysight-eggplant/eggplant-github-action@v1.0.19
-          with:
+        uses: keysight-eggplant/eggplant-github-action@v1.0.19
+        with:
             # The URL of Eggplant DAI server, http(s)://dai_server_hostname:portnumber
             serverURL: http://10.244.8.149:8000/
             # The ID of the Eggplant DAI test configuration that you want to run, e.g. 09c48b7d-fc5b-481d-af80-fcffad5d9587
