@@ -31,7 +31,7 @@ jobs:
             testConfigID: "3e6b2da1-8053-49ef-9316-e82f7dcd2486"
             # The name of the test config that you want to run
             # The client ID to use to authenticate with the Eggplant DAI server
-            clientID: client:dai:api:integration:4e5783c7-f87c-4d84-bdf3-1cebe5cc3197"
+            clientID: "client:dai:api:integration:4e5783c7-f87c-4d84-bdf3-1cebe5cc3197"
             # The client secret to use to authenticate with the Eggplant DAI server  [env var: DAI_CLIENT_SECRET; required]
             clientSecret: "z8hIUKNiOjtwTZzWhOKrbFlimQVWkfyW" 
-            # parameters: "jp=こんにちは";;"de=goreng2"
+            parameters: "jp=こんにちは";;"de=goreng2"
