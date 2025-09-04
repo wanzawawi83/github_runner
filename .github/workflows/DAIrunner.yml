@@ -26,7 +26,7 @@ jobs:
         uses: keysight-eggplant/eggplant-github-action@v1.0.19
         with:
           # The URL of Eggplant DAI server, http(s)://dai_server_hostname:portnumber
-          serverURL: http://10.244.8.149:8000/
+          serverURL: "http://10.244.8.149:8000/"
           # The ID of the Eggplant DAI test configuration that you want to run, e.g. 09c48b7d-fc5b-481d-af80-fcffad5d9587
           testConfigID: "3e6b2da1-8053-49ef-9316-e82f7dcd2486"
           # The name of the test config that you want to run
