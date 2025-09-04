@@ -34,4 +34,4 @@ jobs:
           # The client secret to use to authenticate with the Eggplant DAI server  [env var: DAI_CLIENT_SECRET; required]
           clientSecret: "z8hIUKNiOjtwTZzWhOKrbFlimQVWkfyW"
           # The global parameter(s) to override in the format parameter_name=parameter_value
-          parameters: jp=こんにちは;;de=doitsu
+          parameters: jp=こんにちは
